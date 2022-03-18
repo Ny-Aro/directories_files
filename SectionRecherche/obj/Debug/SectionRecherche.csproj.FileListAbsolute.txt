@@ -1,0 +1,7 @@
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\obj\Debug\SectionRecherche.csproj.AssemblyReference.cache
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\obj\Debug\SectionRecherche.csproj.CoreCompileInputs.cache
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\bin\Debug\SectionRecherche.exe.config
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\bin\Debug\SectionRecherche.exe
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\bin\Debug\SectionRecherche.pdb
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\obj\Debug\SectionRecherche.exe
+C:\Users\ezer\source\repos\SectionRecherche\SectionRecherche\obj\Debug\SectionRecherche.pdb
